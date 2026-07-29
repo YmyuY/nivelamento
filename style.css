@@ -1,6 +1,6 @@
 body{
 
-background-color: rgb(67, 59, 184);
+background-color: rgb(42, 57, 95);
 
 }
 
@@ -9,6 +9,24 @@ header{
     border-bottom: solid 2px black;
     padding: 20px;
     font-size: 32px;
-    color: rgb(105, 195, 255);
+    color: rgb(155, 226, 237);
     
 }
+
+
+.capa{
+    color:rgb(56, 72, 122);
+    font-size: 20px;
+}
+
+#terror{
+    display:flex;
+    padding-left: 200px;
+}
+
+.videos{
+    display:flex;
+    overflow:auto;
+    gap:10px;
+}
+
