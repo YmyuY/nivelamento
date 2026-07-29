@@ -1,6 +1,6 @@
 body{
 
-background-color: darkslategray;
+background-color: rgb(67, 59, 184);
 
 }
 
@@ -9,6 +9,6 @@ header{
     border-bottom: solid 2px black;
     padding: 20px;
     font-size: 32px;
-    color: gold;
+    color: rgb(105, 195, 255);
     
 }
